@@ -1,12 +1,11 @@
 {
   "compilerOptions": {
     "target": "ES2022",      
-    "module": "Node16",                                 
+    "module": "CommonJS",                                 
     "outDir": "./public/static",                          
     "esModuleInterop": true,                                
     "forceConsistentCasingInFileNames": true,           
     "strict": true,                                      
-    "skipLibCheck": true ,
-    "moduleResolution": "Node16"                             
+    "skipLibCheck": true ,                          
   }
 }
