@@ -22,3 +22,5 @@ Implementare un api client che permetta di eseguire le chiamate al servizio
 Renderizzare il tutto utilizzando js per la manipolazione del DOM e typescript.
 
 
+
+https://www.behance.net/gallery/189525741/FASTYLE-Fashion-E-Commerce-Website?tracking_source=search_projects|+clothing+ecommerce+web+design&l=53
